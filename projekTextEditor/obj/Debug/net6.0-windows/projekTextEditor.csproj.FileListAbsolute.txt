@@ -1,0 +1,17 @@
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\bin\Debug\net6.0-windows\projekTextEditor.exe
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\bin\Debug\net6.0-windows\projekTextEditor.deps.json
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\bin\Debug\net6.0-windows\projekTextEditor.runtimeconfig.json
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\bin\Debug\net6.0-windows\projekTextEditor.dll
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\bin\Debug\net6.0-windows\projekTextEditor.pdb
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\projekTextEditor.Form1.resources
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\projekTextEditor.Properties.Resources.resources
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\projekTextEditor.csproj.GenerateResource.cache
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\projekTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\projekTextEditor.AssemblyInfoInputs.cache
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\projekTextEditor.AssemblyInfo.cs
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\projekTextEditor.csproj.CoreCompileInputs.cache
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\projekTextEditor.dll
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\refint\projekTextEditor.dll
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\projekTextEditor.pdb
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\projekTextEditor.genruntimeconfig.cache
+D:\Pemograman Visual\projekTextEditor\projekTextEditor\obj\Debug\net6.0-windows\ref\projekTextEditor.dll
